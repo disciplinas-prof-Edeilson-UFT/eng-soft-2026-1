@@ -134,7 +134,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Claudio Vasconcellos       | [@crfvasconcellos](https://github.com/crfvasconcellos)                     |
 | Otavio Augusto         | [@otavio-asr](https://github.com/otavio-asr)|
 | Samir Batista       | [@Samir-pmw](https://github.com/Samir-pmw)                       |
-| Thiago           | Preencha o GitHub aqui                         |
+| Thiago           | [@tiagoverasf](https://github.com/tiagoverasf)                          |
 
 
 ## Repositório:
