@@ -199,7 +199,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ### 🔗 Links Úteis
 | Recurso | Link |
 |--------|------|
-| 📁 Repositório Oficial | https://github.com/antoniotrauthmann/projeto-es/tree/develop |
+| 📁 Repositório Oficial | https://github.com/antoniotrauthmann/projeto-es |
 | 🌐 Landing Page | Preencha a página aqui |
 | 🏁 Versão Final | Preencha a versão aqui |
 | 🎥 Vídeo de Apresentação | Preencha o vídeo aqui |
