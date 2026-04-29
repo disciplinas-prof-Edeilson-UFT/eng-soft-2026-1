@@ -122,7 +122,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 5: 
 #### Controle Financeiro Pessoal
-|<h2>Controle Financeiro Pessoal</h2><br> Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Controle Financeiro Pessoal" width="1000px"/>
+|<h2>Controle Financeiro Pessoal</h2><br> Preencha a descrição do projeto aqui.|<img src="LogoControleFInanceiro.png" alt="Controle Financeiro Pessoal" width="1000px"/>
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
