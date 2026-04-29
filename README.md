@@ -70,24 +70,29 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 <hr>
 
 ### Grupo 3: 
-#### Delicacy
-|<h2>Delicacy</h2><br> Preencha a descrição do projeto Delicacy aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Delicacy" width="1000px"/>
+#### DriverLux
+|<h2>DriverLux</h2><br> Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Locadora de carros" width="1000px"/>
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 | Nome | Github |
-| :--- | :--- |
-| Preencha o nome aqui | Preencha o GitHub aqui |
-| Preencha o nome aqui | Preencha o GitHub aqui |
+| ------------------------- | ------------------------------------------ |
+| Anna Beatriz Moura de Oliveira | [@bibimoura](https://github.com/bibimoura) |
+| Pedro Ryan Oliveira de Almeida   | [@PdroRyan](https://github.com/PdroRyan) |
+| Grazyelle Nayara Bento dos Santos |[@Grazynaay](https://github.com/Grazynaay) |
+| Ricardo Lopes Tomaz  | [@ricardolopestomaz](https://github.com/ricardolopestomaz) |
 
+## 🔗 Links Úteis
 
-| Descrição                    | Link |
-|-----------------------------|------|
-| 📁 Repositório Oficial      | Preencha o repositório aqui |
-| 🎥 Vídeo Demonstrativo      | Preencha o vídeo aqui |
-| 🌐 Landing Page             | Preencha a página aqui |
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | [Acessar repositório](https://github.com/ricardolopestomaz/DriverLux.git) |
+| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
+| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
 | 🏷️ Última Release | Preencha a release aqui |
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+
+
 
 ---
 
@@ -149,38 +154,8 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ---
 
+
 ### Grupo 6: 
-#### Locadora de carros
-|<h2>Locadora de carros</h2><br> Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Locadora de carros" width="1000px"/>
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-#### Equipe
-| Nome | Github |
-| ------------------------- | ------------------------------------------ |
-| Anna Beatriz Moura de Oliveira | [@bibimoura](https://github.com/bibimoura) |
-| Pedro Ryan Oliveira de Almeida   | [@PdroRyan](https://github.com/PdroRyan) |
-| Grazyelle Nayara Bento dos Santos |[@Grazynaay](https://github.com/Grazynaay) |
-| Ricardo Lopes Tomaz  | [@ricardolopestomaz](https://github.com/ricardolopestomaz) |
-
-## 🔗 Links Úteis
-
-| Recurso | Link |
-|--------|------|
-| 📁 Repositório Oficial | https://github.com/bibimoura/locadora-de-carros.git |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
-
-
-
-
-
-
----
-
-
-### Grupo 7: 
 #### Expresso verde
 |<h2>Expresso verde</h2><br> Preencha a descrição do projeto aqui. | <img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Expresso verde" width="1000px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -205,3 +180,27 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🎥 Vídeo de Apresentação | Preencha o vídeo aqui |
 | 🏷️ Última Release | Preencha a release aqui |
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+
+---
+
+### Grupo 7: 
+#### Delicacy
+|<h2>Delicacy</h2><br> Preencha a descrição do projeto Delicacy aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Delicacy" width="1000px"/>
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Equipe
+| Nome | Github |
+| :--- | :--- |
+| Preencha o nome aqui | Preencha o GitHub aqui |
+| Preencha o nome aqui | Preencha o GitHub aqui |
+
+
+| Descrição                    | Link |
+|-----------------------------|------|
+| 📁 Repositório Oficial      | Preencha o repositório aqui |
+| 🎥 Vídeo Demonstrativo      | Preencha o vídeo aqui |
+| 🌐 Landing Page             | Preencha a página aqui |
+| 🏷️ Última Release | Preencha a release aqui |
+| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+
+---
