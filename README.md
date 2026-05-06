@@ -19,33 +19,6 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 1:
 
-#### +Português
- |<h2>+Português</h2><br>Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="+Português" width="1000px"/> |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-#### Equipe
-| Nome | Github |
-| ---------------------------------------------- | ------------------------------------------------------ |
-| Kayran Marcos Silva Galdino                  | [@KayranSilva](https://github.com/KayranSilva)               |
-| Maria Luiza Pinheiro Higashi                     | [@Higashi-Maria](https://github.com/Higashi-Maria)         |
-| Cauê Piragé Dias de Oliveira                     | [@Pirangue](https://github.com/Pirangue) |
-| João Gabriel Lustosa Novaes Gomes                           | [@JoaogabX123](https://github.com/JoaogabX123) |
-| Thales Rafael De Jesus Rodrigues                    | [@thalesrafael10](https://github.com/thalesrafael10)             |
-
-## 🔗 Links Úteis
-
-| Recurso | Link |
-|--------|------|
-| 📁 Repositório Oficial | https://github.com/JoaogabX123/-portuges.git |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
-
----
-
-### Grupo 2:
-
 #### Barbertime
  |<h2>Barbertime</h2><br>Preencha a descrição do projeto aqui. |<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Barbertime" width="1000px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,6 +41,33 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🏷️ Última Release | Preencha a release aqui |
 | 📝 Apresentação Final | Preencha a apresentação aqui |
 <hr>
+
+### Grupo 2: 
+#### Ponto Crítico
+|<h2>Ponto Crítico</h2><br> Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Ponto Crítico" width="1000px"/>
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| Vinicius Silveira | [@viniciussdudu](https://github.com/viniciussdudu) |
+| Klaus   | [@Klaus1215](https://github.com/Klaus1215) |
+| Samara Coelho |[@SamaraCdS-UFT](https://github.com/SamaraCdS-UFT) |
+| Gustavo Brigel  | [@GustavoBringel](https://github.com/GustavoBringel) |
+| Arthur Bispo | [@bispo047](https://github.com/bispo047) |
+
+## 🔗 Links Úteis
+
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | https://github.com/viniciussdudu/Ponto-Critico |
+| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
+| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
+| 🏷️ Última Release | Preencha a release aqui |
+| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+
+
+---
 
 ### Grupo 3: 
 #### DriverLux
@@ -97,35 +97,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ---
 
 
+
+
+
 ### Grupo 4: 
-#### Ponto Crítico
-|<h2>Ponto Crítico</h2><br> Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Ponto Crítico" width="1000px"/>
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-#### Equipe
-| Nome | Github |
-| ------------------------- | ------------------------------------------ |
-| Vinicius Silveira | [@viniciussdudu](https://github.com/viniciussdudu) |
-| Klaus   | [@Klaus1215](https://github.com/Klaus1215) |
-| Samara Coelho |[@SamaraCdS-UFT](https://github.com/SamaraCdS-UFT) |
-| Gustavo Brigel  | [@GustavoBringel](https://github.com/GustavoBringel) |
-| Arthur Bispo | [@bispo047](https://github.com/bispo047) |
-
-## 🔗 Links Úteis
-
-| Recurso | Link |
-|--------|------|
-| 📁 Repositório Oficial | https://github.com/viniciussdudu/Ponto-Critico |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
-
-
----
-
-
-### Grupo 5: 
 #### Controle Financeiro Pessoal
 |<h2>Controle Financeiro Pessoal</h2><br> Preencha a descrição do projeto aqui.|<img src="LogoControleFInanceiro.png" alt="Controle Financeiro Pessoal" width="1000px"/>
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -153,6 +128,37 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
 
 ---
+
+### Grupo 5:
+
+#### +Português
+ |<h2>+Português</h2><br>Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="+Português" width="1000px"/> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Equipe
+| Nome | Github |
+| ---------------------------------------------- | ------------------------------------------------------ |
+| Kayran Marcos Silva Galdino                  | [@KayranSilva](https://github.com/KayranSilva)               |
+| Maria Luiza Pinheiro Higashi                     | [@Higashi-Maria](https://github.com/Higashi-Maria)         |
+| Cauê Piragé Dias de Oliveira                     | [@Pirangue](https://github.com/Pirangue) |
+| João Gabriel Lustosa Novaes Gomes                           | [@JoaogabX123](https://github.com/JoaogabX123) |
+| Thales Rafael De Jesus Rodrigues                    | [@thalesrafael10](https://github.com/thalesrafael10)             |
+
+## 🔗 Links Úteis
+
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | https://github.com/JoaogabX123/-portuges.git |
+| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
+| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
+| 🏷️ Última Release | Preencha a release aqui |
+| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+
+---
+
+
+
+
 
 
 ### Grupo 6: 
