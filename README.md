@@ -151,7 +151,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://drive.google.com/file/d/1-J0RzVtzlglPTi_v8WxvuwwTaKB02dTU/view?usp=sharing) |
 | 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
 | 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final (PDF) | [Acessar Apresentação](Docs_Apresentações/+Portugues_Apresentação.pdf) |
+| 📝 Apresentação Final (PDF) | [Acessar Apresentação](Docs_Apresentações/Mais_Portugues_Apresentação.pptx) |
 
 ---
 
