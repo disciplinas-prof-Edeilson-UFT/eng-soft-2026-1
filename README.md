@@ -123,7 +123,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 📁 Repositório Oficial      | [Acessar repositório](https://github.com/crfvasconcellos/ControleFinanceiroWeb) |
 | 🎥 Vídeo Demonstrativo      | [Acessar Vídeo](https://youtu.be/rS9knUD4gLc) |
 | 🌐 Landing Page             | [Acessar Página](https://crfvasconcellos.github.io/ControleFinanceiroWeb/) |
-| 🏷️ Última Release | Preencha a release aqui |
+| 🏷️ Última Release | [Acessar Realease](https://github.com/crfvasconcellos/ControleFinanceiroWeb/releases/tag/V5) |
 | 📝 Apresentação Final (PDF) | [Apresentação](Docs_Apresentações/Apresentação%20Final%20Controle%20Financeiro.pdf) |
 
 ---
