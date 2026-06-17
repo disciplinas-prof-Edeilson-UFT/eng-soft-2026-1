@@ -131,7 +131,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ### Grupo 5:
 
 #### +Português
- |<h2>+Português</h2><br>Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="+Português" width="1000px"/> |
+ |<h2>+Português</h2><br>O +Português é uma aplicação para professores criarem, organizarem e reutilizarem questões objetivas e dissertativas.|<img src="Logos/Logo_Mais_Portugues.png" alt="+Português" width="1000px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
@@ -148,10 +148,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/JoaogabX123/-portuges.git |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
+| 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://drive.google.com/file/d/1-J0RzVtzlglPTi_v8WxvuwwTaKB02dTU/view?usp=sharing) |
 | 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
 | 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+| 📝 Apresentação Final (PDF) | [Acessar Apresentação](Docs_Apresentações/+Portugues_Apresentação.pdf) |
 
 ---
 
