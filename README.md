@@ -44,7 +44,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 2: 
 #### Ponto Crítico
-|<h2>Ponto Crítico</h2><br> Preencha a descrição do projeto aqui.|<img src="Logo_Ponto_crítico.png" alt="Ponto Crítico" width="1000px"/>
+|<h2>Ponto Crítico</h2><br> O Ponto Crítico é uma plataforma web desenvolvida para a centralização de críticas e avaliações de mídias .|<img src="Logo_Ponto_crítico.png" alt="Ponto Crítico" width="1000px"/>
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
@@ -63,7 +63,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🎥 Vídeo Demonstrativo | [vídeo ](https://drive.google.com/file/d/1jz5t6644rvW_oxLb5JXZQP00z8dMuzuN/view?usp=sharing) |
 | 🌐 Sistema Online (Landing Page) | [Landing Page](https://viniciussdudu.github.io/Landing-Page-Ponto-Cr-tico/)  |
 | 🏷️ Última Release | [Release](https://github.com/viniciussdudu/Ponto-Critico/releases/tag/V5.0) |
-| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+| 📝 Apresentação Final (PDF) | [Apresentação](Docs_Apresentações/Apresentação_Final_Ponto_Crítico.pdf) |
 
 
 ---
