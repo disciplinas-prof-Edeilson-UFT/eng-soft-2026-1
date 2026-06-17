@@ -190,22 +190,22 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 7: 
 #### Delicacy
-|<h2>Delicacy</h2><br> Preencha a descrição do projeto Delicacy aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Delicacy" width="1000px"/>
+|<h2>Delicacy</h2><br> Preencha a descrição do projeto Delicacy aqui.|<img src="(https://br.pinterest.com/pin/653444227230050239/)" alt="Delicacy" width="1000px"/>
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 | Nome | Github |
 | :--- | :--- |
-| Preencha o nome aqui | Preencha o GitHub aqui |
-| Preencha o nome aqui | Preencha o GitHub aqui |
+| Eduardo Lopes | [@EduLps1](https://github.com/EduLps1) |
+
 
 
 | Descrição                    | Link |
 |-----------------------------|------|
-| 📁 Repositório Oficial      | Preencha o repositório aqui |
+| 📁 Repositório Oficial      | [Repositório](https://github.com/EduLps1/Delicacy) |
 | 🎥 Vídeo Demonstrativo      | Preencha o vídeo aqui |
-| 🌐 Landing Page             | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
+| 🌐 Landing Page             | [Landing Page](https://edulps1.github.io/Delicacy/) |
+| 🏷️ Última Release | [Release_Final](https://github.com/EduLps1/Delicacy/releases/tag/V3.0) |
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
 
 ---
