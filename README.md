@@ -51,7 +51,6 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Nome | Github |
 | ------------------------- | ------------------------------------------ |
 | Vinicius Silveira | [@viniciussdudu](https://github.com/viniciussdudu) |
-| Klaus   | [@Klaus1215](https://github.com/Klaus1215) |
 | Samara Coelho |[@SamaraCdS-UFT](https://github.com/SamaraCdS-UFT) |
 | Gustavo Brigel  | [@GustavoBringel](https://github.com/GustavoBringel) |
 | Arthur Bispo | [@bispo047](https://github.com/bispo047) |
@@ -61,9 +60,9 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/viniciussdudu/Ponto-Critico |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
+| 🎥 Vídeo Demonstrativo | [vídeo ](https://drive.google.com/file/d/1jz5t6644rvW_oxLb5JXZQP00z8dMuzuN/view?usp=sharing) |
+| 🌐 Sistema Online (Landing Page) | [Landing Page](https://viniciussdudu.github.io/Landing-Page-Ponto-Cr-tico/)  |
+| 🏷️ Última Release | [Release](https://github.com/viniciussdudu/Ponto-Critico/releases/tag/V5.0) |
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
 
 
