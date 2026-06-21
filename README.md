@@ -162,7 +162,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 6: 
 #### Expresso verde
-|<h2>Expresso verde</h2><br> Preencha a descrição do projeto aqui. | <img src="Expresso_Verde.png" alt="Expresso verde" width="1000px"/> |
+|<h2>Expresso verde</h2><br> Site de compra e vendas de plantas e artigos de jardinagem | <img src="Logos/Expresso_Verde.png" alt="Expresso verde" width="1000px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
