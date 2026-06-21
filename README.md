@@ -180,7 +180,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/antoniotrauthmann/projeto-es |
-| 🌐 Landing Page | Preencha a página aqui |
+| 🌐 Landing Page | [Landing Page](https://antoniotrauthmann.github.io/expressoverde/) |
 | 🏁 Versão Final | Preencha a versão aqui |
 | 🎥 Vídeo de Apresentação | Preencha o vídeo aqui |
 | 🏷️ Última Release | Preencha a release aqui |
