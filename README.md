@@ -162,7 +162,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 6: 
 #### Expresso verde
-|<h2>Expresso verde</h2><br> Preencha a descrição do projeto aqui. | <img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Expresso verde" width="1000px"/> |
+|<h2>Expresso verde</h2><br> Preencha a descrição do projeto aqui. | <img src="Expresso Verde.png" alt="Expresso verde" width="1000px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
