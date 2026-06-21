@@ -183,7 +183,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🌐 Landing Page | [Landing Page](https://antoniotrauthmann.github.io/expressoverde/) |
 | 🎥 Vídeo de Apresentação | [Link do vídeo no youtube](https://youtu.be/2jU0jhp2OL0) |
 | 🏷️ Última Release | [VersaoFinal](https://github.com/antoniotrauthmann/expressoverde/releases/tag/1.5) |
-| 📝 Apresentação Final (PDF) | [PDF](documents/ApresentacaoExpressoVerde.pdf) |
+| 📝 Apresentação Final (PDF) | [PDF](Docs_Apresentações/Projeto%20Expresso%20Verde.pdf) |
 
 ---
 
