@@ -228,7 +228,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 📁 Repositório Oficial | [Repositório](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque) |
 | 🌐 Landing Page | [Landing Page](https://beckman700.github.io/Eng.Software-Controle-de-Estoque/) |
 | 🎥 Vídeo de Apresentação | [Link do drive do vídeo](https://drive.google.com/drive/folders/1Bfi4XMicCtl6MGLH_07c-TtiNZGw6KKB?usp=drive_link) |
-| 🏷️ Última Release | [VersaoFinal](https://github.com/antoniotrauthmann/expressoverde/releases/tag/1.5) |
+| 🏷️ Última Release | Preencha o vídeo aqui |
 | 📝 Apresentação Final (PDF) | [PDF](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque/blob/main/docs/apresentacao/Apresentacao-Final-Sistema-de-Controle-de-Estoque.pdf) |
 
 ---
