@@ -210,7 +210,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 8: 
 #### Controle de Estoque
-<h2>Controle de Estoque</h2><br> Sistema web em PHP nativo para administrar produtos | <img src="https://operational-pink-eyv3mqm8.edgeone.dev/logo%20(1).png" alt="Controle de Estoque" width="500px"/> | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<h2>Controle de Estoque</h2><br> Sistema web em PHP nativo para administrar produtos | <img src="https://operational-pink-eyv3mqm8.edgeone.dev/logo%20(1).png" alt="Controle de Estoque" width="500px"/>
 
 #### Equipe
 | Nome | Github |
