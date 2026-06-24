@@ -208,9 +208,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ---
 
-### Grupo 8: 
+### Grupo 8:
 #### Controle de Estoque
-<h2>Controle de Estoque</h2><br> Sistema web em PHP nativo para administrar produtos | <img src="https://operational-pink-eyv3mqm8.edgeone.dev/logo%20(1).png" alt="Controle de Estoque" width="500px"/>
+|<h2>Controle de Estoque</h2><br> Sistema web em PHP nativo para administrar produtos, entradas, saídas, inventário e relatórios. | <img src="https://cdn.jsdelivr.net/gh/BECKMAN700/Eng.Software-Controle-de-Estoque@v1.3.0/public/assets/img/logo.svg" alt="Controle de Estoque" width="1000px"/> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 | Nome | Github |
@@ -220,15 +221,13 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Murillo Fernandes de Oliveira | [@murillofnandes](https://github.com/murillofnandes) |
 | Matheus Sulino da Silva Costa | [@vrascode](https://github.com/vrascode) |
 
-
-
 ### 🔗 Links Úteis
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | [Repositório](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque) |
 | 🌐 Landing Page | [Landing Page](https://beckman700.github.io/Eng.Software-Controle-de-Estoque/) |
 | 🎥 Vídeo de Apresentação | [Link do drive do vídeo](https://drive.google.com/drive/folders/1Bfi4XMicCtl6MGLH_07c-TtiNZGw6KKB?usp=drive_link) |
-| 🏷️ Última Release | Preencha o vídeo aqui |
+| 🏷️ Última Release | [Release Final](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque/releases/tag/v1.3.0) |
 | 📝 Apresentação Final (PDF) | [PDF](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque/blob/main/docs/apresentacao/Apresentacao-Final-Sistema-de-Controle-de-Estoque.pdf) |
 
 ---
