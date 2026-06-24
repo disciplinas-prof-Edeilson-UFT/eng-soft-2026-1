@@ -149,8 +149,8 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/JoaogabX123/-portuges.git |
 | 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://drive.google.com/file/d/1-J0RzVtzlglPTi_v8WxvuwwTaKB02dTU/view?usp=sharing) |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
+| 🌐 Sistema Online (Landing Page) | [Landing Page](https://joaogabx123.github.io/mais_portugues/) |
+| 🏷️ Última Release | [Release](https://github.com/JoaogabX123/mais_portugues/releases/tag/V2.0.0) |
 | 📝 Apresentação Final (PDF) | [Acessar Apresentação](Docs_Apresentações/Mais_Portugues_Apresentação.pptx) |
 
 ---
