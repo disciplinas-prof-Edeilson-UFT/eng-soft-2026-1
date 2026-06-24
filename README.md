@@ -60,10 +60,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/viniciussdudu/Ponto-Critico |
-| 🎥 Vídeo Demonstrativo | [vídeo ](https://drive.google.com/file/d/1jz5t6644rvW_oxLb5JXZQP00z8dMuzuN/view?usp=sharing) |
-| 🌐 Sistema Online (Landing Page) | [Landing Page](https://viniciussdudu.github.io/Landing-Page-Ponto-Cr-tico/)  |
-| 🏷️ Última Release | [Release](https://github.com/viniciussdudu/Ponto-Critico/releases/tag/V5.0) |
-| 📝 Apresentação Final (PDF) | [Apresentação](Docs_Apresentações/Apresentação_Final_Ponto_Crítico.pdf) |
+| 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://youtu.be/a0kfAG_Zvj0) |
+| 🌐 Sistema Online (Landing Page) | [Acessar Página](https://viniciussdudu.github.io/Landing-Page-Ponto-Cr-tico/)  |
+| 🏷️ Última Release | [Acessar Realease](https://github.com/viniciussdudu/Ponto-Critico/releases/tag/V5.0) |
+| 📝 Apresentação Final (PDF) | [Acessar Apresentação](Docs_Apresentações/Apresentação_Final_Ponto_Crítico.pdf) |
 
 
 ---
