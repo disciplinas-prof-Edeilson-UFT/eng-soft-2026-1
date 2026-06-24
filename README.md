@@ -20,7 +20,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 ### Grupo 1:
 
 #### Barbertime
- |<h2>Barbertime</h2><br>Preencha a descrição do projeto aqui. |<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Barbertime" width="1000px"/> |
+ |<h2>Barbertime</h2><br> A Barbertime é a representação de modernidade na sua barbearia. |<img src=https://github.com/joseguifs/eng-soft-2026-1/blob/main/Logos/Logo_barbertime.png alt="Barbertime" width="1000px"/> |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
@@ -36,10 +36,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/joseguifs/barbearia_SaaS |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final | Preencha a apresentação aqui |
+| 🎥 Vídeo Demonstrativo | [vídeo](https://drive.google.com/file/d/1sE-LShPlyG3mp197d3IMd8IIGwOKoE7Z/view?usp=sharing)|
+| 🌐 Sistema Online (Landing Page) | [Landing Page](https://joseguifs.github.io/landing-page-barbertime/) |
+| 🏷️ Última Release | [Release](https://github.com/joseguifs/barbearia_SaaS/releases/tag/5.0.0) |
+| 📝 Apresentação Final | [Apresentação](https://github.com/joseguifs/eng-soft-2026-1/blob/main/Docs_Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o_Final_BarberTime.pdf) |
 <hr>
 
 ### Grupo 2: 
