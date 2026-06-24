@@ -189,8 +189,8 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 7: 
 #### Delicacy
-<h2>Expresso verde</h2><br> Gestão, Operação e Inteligência para Negócios Gastronômicos | <img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Expresso verde" width="1000px"/> | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+|<h2>Delicacy</h2><br> Gestão, Operação e Inteligência para Negócios Gastronômicos | <img src="https://github.com/EduLps1/Delicacy/blob/main/public/images/auth/delicacy-symbol-cropped.png" alt="Delicacy" width="400px"/> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 #### Equipe
 | Nome | Github |
 | :--- | :--- |
@@ -201,7 +201,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Descrição                    | Link |
 |-----------------------------|------|
 | 📁 Repositório Oficial      | [Repositório](https://github.com/EduLps1/Delicacy) |
-| 🎥 Vídeo Demonstrativo      | Preencha o vídeo aqui |
+| 🎥 Vídeo Demonstrativo      | [Vídeo Delicacy](https://youtu.be/eWwfQ5zAbCU) |
 | 🌐 Landing Page             | [Landing Page](https://edulps1.github.io/Delicacy/) |
 | 🏷️ Última Release | [Release_Final](https://github.com/EduLps1/Delicacy/releases/tag/V3.0) |
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
