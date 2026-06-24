@@ -149,8 +149,8 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 |--------|------|
 | 📁 Repositório Oficial | https://github.com/JoaogabX123/-portuges.git |
 | 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://drive.google.com/file/d/1-J0RzVtzlglPTi_v8WxvuwwTaKB02dTU/view?usp=sharing) |
-| 🌐 Sistema Online (Landing Page) | [Landing Page](https://joaogabx123.github.io/mais_portugues/) |
-| 🏷️ Última Release | [Release](https://github.com/JoaogabX123/mais_portugues/releases/tag/V2.0.0) |
+| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
+| 🏷️ Última Release | Preencha a release aqui |
 | 📝 Apresentação Final (PDF) | [Acessar Apresentação](Docs_Apresentações/Mais_Portugues_Apresentação.pptx) |
 
 ---
@@ -207,3 +207,30 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
 
 ---
+
+### Grupo 8: 
+#### Controle de Estoque
+<h2>Controle de Estoque</h2><br> Sistema web em PHP nativo para administrar produtos | <img src="https://operational-pink-eyv3mqm8.edgeone.dev/logo%20(1).png" alt="Controle de Estoque" width="500px"/> | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| Joao Pedro Rodrigues Bequiman | [@BECKMAN700](https://github.com/BECKMAN700) |
+| Giordano Bruno | [@GiordanOBru](https://github.com/GiordanOBru) |
+| Murillo Fernandes de Oliveira | [@murillofnandes](https://github.com/murillofnandes) |
+| Matheus Sulino da Silva Costa | [@vrascode](https://github.com/vrascode) |
+
+
+
+### 🔗 Links Úteis
+| Recurso | Link |
+|--------|------|
+| 📁 Repositório Oficial | [Repositório](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque) |
+| 🌐 Landing Page | [Landing Page](https://beckman700.github.io/Eng.Software-Controle-de-Estoque/) |
+| 🎥 Vídeo de Apresentação | [Link do drive do vídeo](https://drive.google.com/drive/folders/1Bfi4XMicCtl6MGLH_07c-TtiNZGw6KKB?usp=drive_link) |
+| 🏷️ Última Release | [VersaoFinal](https://github.com/antoniotrauthmann/expressoverde/releases/tag/1.5) |
+| 📝 Apresentação Final (PDF) | [PDF](https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque/blob/main/docs/apresentacao/Apresentacao-Final-Sistema-de-Controle-de-Estoque.pdf) |
+
+---
+
+
