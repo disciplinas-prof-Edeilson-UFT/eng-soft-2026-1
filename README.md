@@ -70,7 +70,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 
 ### Grupo 3: 
 #### DriverLux
-|<h2>DriverLux</h2><br> Preencha a descrição do projeto aqui.|<img src="https://www.casejp.com/galeria/sua-logo-marca-11.png" alt="Locadora de carros" width="1000px"/>
+|<h2>DriverLux</h2><br> Preencha a descrição do projeto aqui.|<img src="Logos/Logo_DriverLux.png" alt="Locadora de carros" width="1000px"/>
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
@@ -89,8 +89,7 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://drive.google.com/file/d/1hWCukXE0qe_OrzoRnwaUddgPw9UiVU2_/view?usp=sharing) |
 | 🌐 Sistema Online (Landing Page) | [Acessar Página](https://ricardolopestomaz.github.io/DriverLux/) |
 | 🏷️ Última Release | [Acessar Realease](https://github.com/ricardolopestomaz/DriverLux/releases/tag/v0.5.0) |
-| 📝 Apresentação Final (PDF) |[Acessar Apresentação](https://www.canva.com/design/DAHMHHZV-K8/QHKHtbq91dWaFS3ozb0oKg/view?utm_content=DAHMHHZV-K8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf434b5915d) |
-
+| 📝 Apresentação Final (PDF) |[Acessar Apresentação](Docs_Apresentações/DRIVERLUX_Apresentação.pdf) |
 
 
 ---
