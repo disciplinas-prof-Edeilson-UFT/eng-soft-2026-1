@@ -86,10 +86,10 @@ Além disso, metodologias ágeis estudadas ao longo da disciplina também deveri
 | Recurso | Link |
 |--------|------|
 | 📁 Repositório Oficial | [Acessar repositório](https://github.com/ricardolopestomaz/DriverLux.git) |
-| 🎥 Vídeo Demonstrativo | Preencha o vídeo aqui |
-| 🌐 Sistema Online (Landing Page) | Preencha a página aqui |
-| 🏷️ Última Release | Preencha a release aqui |
-| 📝 Apresentação Final (PDF) | Preencha a apresentação aqui |
+| 🎥 Vídeo Demonstrativo | [Acessar Vídeo](https://drive.google.com/file/d/1hWCukXE0qe_OrzoRnwaUddgPw9UiVU2_/view?usp=sharing) |
+| 🌐 Sistema Online (Landing Page) | [Acessar Página](https://ricardolopestomaz.github.io/DriverLux/) |
+| 🏷️ Última Release | [Acessar Realease](https://github.com/ricardolopestomaz/DriverLux/releases/tag/v0.5.0) |
+| 📝 Apresentação Final (PDF) |[Acessar Apresentação](https://www.canva.com/design/DAHMHHZV-K8/QHKHtbq91dWaFS3ozb0oKg/view?utm_content=DAHMHHZV-K8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf434b5915d) |
 
 
 
